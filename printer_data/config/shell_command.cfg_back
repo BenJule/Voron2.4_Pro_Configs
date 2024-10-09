@@ -1,3 +1,0 @@
-[gcode_shell_command backup_cfg]
-command: "cp /home/benlue/printer_data/printer.cfg /home/benlue/printer_data/backup/printer_backup.cfg"
-timeout: 5
