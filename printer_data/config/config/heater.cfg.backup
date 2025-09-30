@@ -9,7 +9,6 @@
 #####################################################################
 
 [heater_bed]
-control: pid
 heater_pin: PA3               # Pin, der mit dem Heizbett verbunden ist
 sensor_type: Generic 3950      # Temperaturfühler-Typ
 sensor_pin: PF3                # Pin, der mit dem Temperaturfühler verbunden ist
