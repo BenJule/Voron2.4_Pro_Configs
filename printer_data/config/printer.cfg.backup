@@ -208,4 +208,3 @@ click_pin: ^!EXP1_2
 #*# max_x = 197.236
 #*# min_y = 170.0
 #*# max_y = 180.0
-[include legacy_clean_nozzle.cfg]
